@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{145:function(e,n,t){"use strict";t.r(n);var o=t(0),a=t.n(o);n.default=function(){return a.a.createElement("div",null,"hello categories")}}}]);
-//# sourceMappingURL=component---src-pages-categories-js-537a151567480e00706e.js.map
