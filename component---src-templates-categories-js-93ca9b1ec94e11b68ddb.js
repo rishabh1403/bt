@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{185:function(e,a,n){"use strict";n.r(a);var t=n(0),c=n.n(t),o=n(182),r=n.n(o),s=(n(209),n(84),n(199)),l=(n(203),n(200)),i=n.n(l);a.default=function(e){e.data;var a=e.pageContext;return console.log(a),c.a.createElement(s.a,null,c.a.createElement("section",{className:r.a.blogs},c.a.createElement("div",{className:r.a.center},a.categories.map(function(e,a){return c.a.createElement(i.a,{key:a,to:"categories/"+e},e)}))))}}}]);
-//# sourceMappingURL=component---src-templates-categories-js-93ca9b1ec94e11b68ddb.js.map
