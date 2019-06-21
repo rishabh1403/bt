@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rishabh Jain]]></title><description><![CDATA[Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.]]></description><link>https://rishabh1403.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 21:25:19 GMT</lastBuildDate><item><title><![CDATA[Hackerrank | Solution of Migratory Birds in Golang]]></title><description><![CDATA[In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</guid><pubDate>Mon, 22 Oct 2018 16:15:53 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many questions. Let&apos;s dive right into it.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rishabh Jain]]></title><description><![CDATA[Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.]]></description><link>https://rishabh1403.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 21:57:41 GMT</lastBuildDate><item><title><![CDATA[Hackerrank | Solution of Migratory Birds in Golang]]></title><description><![CDATA[In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</guid><pubDate>Mon, 22 Oct 2018 16:15:53 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many questions. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/migratory-birds/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that there are many birds of &lt;strong&gt;&lt;em&gt;very few&lt;/em&gt;&lt;/strong&gt; types and we need to find which type of bird is most in number. In case we have multiple types with same number we need to answer the bird with lower type. &lt;/p&gt;
@@ -143,7 +143,22 @@
 &lt;p&gt;I hope you enjoyed solving this question. This appproach of using array to store count of something where index becomes the key is very common. It helps in faster lookup for results. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube IoX_OBCVIOw &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Divisible Sum Pairs in Golang]]></title><description><![CDATA[In this one we will solve question divisible sum pairs from hackerrank in golang. Let's get right into it.Problem StatementThe question can…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-divisible-sum-pairs-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-divisible-sum-pairs-in-golang/</guid><pubDate>Sat, 06 Oct 2018 16:40:10 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question divisible sum pairs from hackerrank in golang. Let&apos;s get right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/IoX_OBCVIOw?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Divisible Sum Pairs in Golang]]></title><description><![CDATA[In this one we will solve question divisible sum pairs from hackerrank in golang. Let's get right into it.Problem StatementThe question can…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-divisible-sum-pairs-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-divisible-sum-pairs-in-golang/</guid><pubDate>Sat, 06 Oct 2018 16:40:10 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question divisible sum pairs from hackerrank in golang. Let&apos;s get right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/divisible-sum-pairs/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we need to find all those pairs of numbers where sum of those numbers are divisible by a given number &lt;code class=&quot;language-text&quot;&gt;k&lt;/code&gt;. &lt;/p&gt;
@@ -2152,7 +2167,32 @@ So your code should look something like this. &lt;/li&gt;
 &lt;p&gt;Okay, here we have a bunch of code, let&apos;s start exploring what they mean. On the first line, I am declaring and initializing two variables to store our left diagonal and right diagonal sum. Next we are looping over the number of rows and allocating memory for &lt;code class=&quot;language-text&quot;&gt;n&lt;/code&gt; columns for each row of the matrix. Again we are using &lt;code class=&quot;language-text&quot;&gt;make&lt;/code&gt; to allocate memory and are specifying that &lt;code class=&quot;language-text&quot;&gt;a[i]&lt;/code&gt; will be an array of &lt;code class=&quot;language-text&quot;&gt;int&lt;/code&gt; type of length &lt;code class=&quot;language-text&quot;&gt;n&lt;/code&gt;. Next we are looping over the number of columns for each row. Now that we have successfully created our nested loops which would traverse over the matrix in the order that we want, we are ready to take inputs for each index. Next we are taking inputs for each index. Now we will write the logic to determine if the element belongs to left diagonal or right diagonal and add it to correct variable accordingly.&lt;/p&gt;
 &lt;h1&gt;Left and Right Diagonals&lt;/h1&gt;
 &lt;p&gt;Refer the picture below, and forgive me for my bad drawing, still learning how to use some of the drawing tools&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/posts/coding/hackerrank/2018/08/diagonal.png&quot; alt=&quot;diagonal.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/67c155abdd0061eee4f0f09936f508e6/f10b8/diagonal.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 238px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 91.59663865546219%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAAD3UlEQVQ4y22Uy28bVRSHLzOkfwcSC1CDiggSVIVFgsSOh8QCRLpgz54dGxBFIEEJ0FCFNLQSCCFVLFCU1DhpRBKl8WPG4zya2LE9nvcksRPbdeKmsed3ONe2KgJo9OmM5Dmfz7n3nivEpiCxzwRMKOiJXQWiIuiZ7AUsp33MZYo0nylBsmAU6E5yF6v6O6jyN0GgIuQcBoeHgtbXRUeIKov+8Sj8cMRgOER5hyjrH2HNbxGDjaBJ6TKh6F4G8VdEaj+KbtzbE5EQHqeXGJcxWdjhCvnH8+4Q7pun0Ow6ZewHEhhOjRLFCHnrfYTckeepMDmn0egJfV8KTQERZ1aZJQGl1RVikIVbLNSdOqRMkmVhshRhqzQKQxeUSKiIcy6LukLPk8K9/22ZBoMh2rYiMrwHlHWPuqzze8okFJzHLct2CegJeS1Z6HBlbabFnDAPmVOBZ0vPw8i3cK9YRaJw0CVZqmBp6xE2dt5F1BF4yN+enPRiFAmyyiwcW/kNNwtzmNqOYSr3J37avoPJ4l+4Ff8K4fWn4d8YhD95vksw9Ry88aew8sdHSJlLSG3PIJWLIck5hjlPs8u/RmLF2KVCQJRzIsq54Nim7V0iY3GaaJzbmmQmmB/78VuBjdkvkdnnb+xTMjgn40TY3COa0/1IxPUCDK8JzarJHeV4gHTQQWLxNppXBSrfPInamILKVQV0Y4A63wlkZ65Al39qVXmz6tA5dyNsUTydiwQfWHnGukfDkFh10rni9NLvZH0q6P4nChU/E2R8zAs/pVLEFa7NfN4X1uTuk241sBmeUFwrROJupkDrfpNlNTKcOscDygQdSi7epvY1QZ2JAYomVGpf5x2dPEfR9wLG7BWkWahxhRrnpO1DrIXHFNO4wri2h4xLkBMg0cwIKY9wb2EaNMZVjTPX+vEHXsOvBXLTXyDPXeyYbeyUifImUPaJVlJhJLTsJdjBCErOMExXMgI7fBXJ1NtIxn+GtnAT2t1bSDMpfl+P/YIPlz/AheAVumiN4GV7mF6yh3ExfI1e0C5ForLfncX/4ASDlHCJ9JBbC3qkQtCWTXjdfQ/9QTgbd/kcBoGCekNFraaiWlURYUCeeljui9z+CbK8PnLxJbpzQPnCKd6yRyGOBQ00zkE5UElpqVB4ahRfiQQPN2IxgeVlgfl5gRbPshSWeZbT5TZfCI3Hs8wbgFwJeMNkYZLHdFWFmOXq3H6FcpblYLdavRGSsdPpCS2PhaYU1s8Kiyy0Rrtjqhyz8Ihlj/pCedtUKv9eP6W/hkOk26A1r8kcU5Yx+HjtmERvupf7F4l65mKRa/g3X0MfmrrztugAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;diagonal.png&quot;
+        title=&quot;&quot;
+        src=&quot;/static/67c155abdd0061eee4f0f09936f508e6/f10b8/diagonal.png&quot;
+        srcset=&quot;/static/67c155abdd0061eee4f0f09936f508e6/f10b8/diagonal.png 238w&quot;
+        sizes=&quot;(max-width: 238px) 100vw, 238px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The elements in green and brown are the elements that belong to left diagonal, while the element which are in yellow and brown belong to the right diagonal. Notice the indexing in the boxes, if you look the indexes for the left diagonal, both the row number and the column number are same. Here we got our first condition to determine if an element belongs to left diagonal. For the right diagonal, if you notice, the sum of the indexes are always &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; in our case, I want you to try it out for other higher order matrix, say 4*4 matrix. You&apos;ll notice that it always equal to &lt;code class=&quot;language-text&quot;&gt;size - 1&lt;/code&gt; of matrix. Now we got both of our conditions to determine the elements of left and right diagonal. Let&apos;s replace the comments with original sum logic&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;&lt;pre style=&quot;counter-reset: linenumber NaN&quot; class=&quot;language-go line-numbers&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;    &lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;
     &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt;j &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
