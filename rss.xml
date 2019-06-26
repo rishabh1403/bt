@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rishabh Jain]]></title><description><![CDATA[Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.]]></description><link>https://rishabh1403.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 26 Jun 2019 15:44:20 GMT</lastBuildDate><item><title><![CDATA[Hackerrank | Solution of Migratory Birds in Golang]]></title><description><![CDATA[In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</guid><pubDate>Mon, 22 Oct 2018 16:15:53 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many questions. Let&apos;s dive right into it.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rishabh Jain]]></title><description><![CDATA[Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.]]></description><link>https://rishabh1403.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 26 Jun 2019 16:29:30 GMT</lastBuildDate><item><title><![CDATA[Hackerrank | Solution of Migratory Birds in Golang]]></title><description><![CDATA[In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-migratory-birds-in-golang/</guid><pubDate>Mon, 22 Oct 2018 16:15:53 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question migratory birds from hackerrank in golang. This one wraps a logic which can be used to solve many questions. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/migratory-birds/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that there are many birds of &lt;strong&gt;&lt;em&gt;very few&lt;/em&gt;&lt;/strong&gt; types and we need to find which type of bird is most in number. In case we have multiple types with same number we need to answer the bird with lower type. &lt;/p&gt;
@@ -296,7 +296,22 @@
 &lt;p&gt;This was a quick and easy one. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube UgTCStBlcj4 &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[From The AGC to Smartphones and Beyond]]></title><description><![CDATA[Today, space technology has evolved to an extent that mankind can envisage a future where space tourism could be a thing. In contrast, not…]]></description><link>https://rishabh1403.composts/general/2018/10/from-the-agc-to-smartphones-and-beyond/</link><guid isPermaLink="false">https://rishabh1403.composts/general/2018/10/from-the-agc-to-smartphones-and-beyond/</guid><pubDate>Sat, 06 Oct 2018 05:26:20 GMT</pubDate><content:encoded>&lt;p&gt;Today, space technology has evolved to an extent that mankind can envisage a future where &lt;a href=&quot;https://www.space.com/topics/space-tourism&quot;&gt;space tourism&lt;/a&gt; could be a thing. In contrast, not even five decades ago, a single space expedition was a near to impossible task. The journey has been a historic one, much of which has been made possible by the power of modern computers, the foundation for which was laid in the 1960&apos;s.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/UgTCStBlcj4?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[From The AGC to Smartphones and Beyond]]></title><description><![CDATA[Today, space technology has evolved to an extent that mankind can envisage a future where space tourism could be a thing. In contrast, not…]]></description><link>https://rishabh1403.composts/general/2018/10/from-the-agc-to-smartphones-and-beyond/</link><guid isPermaLink="false">https://rishabh1403.composts/general/2018/10/from-the-agc-to-smartphones-and-beyond/</guid><pubDate>Sat, 06 Oct 2018 05:26:20 GMT</pubDate><content:encoded>&lt;p&gt;Today, space technology has evolved to an extent that mankind can envisage a future where &lt;a href=&quot;https://www.space.com/topics/space-tourism&quot;&gt;space tourism&lt;/a&gt; could be a thing. In contrast, not even five decades ago, a single space expedition was a near to impossible task. The journey has been a historic one, much of which has been made possible by the power of modern computers, the foundation for which was laid in the 1960&apos;s.&lt;/p&gt;
 &lt;h2&gt;The Moon Shot&lt;/h2&gt;
 &lt;p&gt;Computers played a fundamental role in the first Apollo mission, and then eventual &lt;a href=&quot;https://www.youtube.com/watch/?v=RMINSD7MmT4&quot;&gt;moon landing&lt;/a&gt;. Despite the fact that NASA&apos;s computers at that time were laugh-worthy by today’s standards, they were proper enough to guide humans across 356,000 km of space.&lt;/p&gt;
 &lt;h3&gt;Apollo Guidance Computer&lt;/h3&gt;
@@ -477,7 +492,22 @@
 &lt;p&gt;Now you can enjoy the chocolate bar I asked you keep nearby at the start of the article. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube W55rjPR7TtM &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Breaking the Records in Golang]]></title><description><![CDATA[In this one we will solve question breaking the records from hackerrank in golang. Let's dive right into it.Problem StatementThe question…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-breaking-the-records-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-breaking-the-records-in-golang/</guid><pubDate>Tue, 02 Oct 2018 12:55:16 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question breaking the records from hackerrank in golang. Let&apos;s dive right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/W55rjPR7TtM?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Breaking the Records in Golang]]></title><description><![CDATA[In this one we will solve question breaking the records from hackerrank in golang. Let's dive right into it.Problem StatementThe question…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-breaking-the-records-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/10/hackerrank-solution-of-breaking-the-records-in-golang/</guid><pubDate>Tue, 02 Oct 2018 12:55:16 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve question breaking the records from hackerrank in golang. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we are given a list of scores and we need to find out how many times the records of lowest and highest scores were broken.&lt;/p&gt;
@@ -629,7 +659,22 @@
 &lt;p&gt;This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/breaking-the-records.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube 7RKyPKN1rP0 &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Between Two Sets in Golang]]></title><description><![CDATA[In this one we will discuss the solution of Between two sets in Golang. It wraps good amount of logic, will be fun solving it. Let's dive…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-between-two-sets-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-between-two-sets-in-golang/</guid><pubDate>Fri, 21 Sep 2018 13:09:04 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will discuss the solution of Between two sets in Golang. It wraps good amount of logic, will be fun solving it. Let&apos;s dive right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/7RKyPKN1rP0?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Between Two Sets in Golang]]></title><description><![CDATA[In this one we will discuss the solution of Between two sets in Golang. It wraps good amount of logic, will be fun solving it. Let's dive…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-between-two-sets-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-between-two-sets-in-golang/</guid><pubDate>Fri, 21 Sep 2018 13:09:04 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will discuss the solution of Between two sets in Golang. It wraps good amount of logic, will be fun solving it. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/between-two-sets/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we need to find the number of all the integers which satisfy two given conditions.&lt;/p&gt;
@@ -830,7 +875,22 @@
 &lt;p&gt;Phew!!! it was a good one. We discussed how to narrow down our search space, used a flag and break to limit the computations, and came out with a working solution. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/between-two-sets.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube LJ6nUUZpBiE &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Mornings New Subscribers]]></title><description><![CDATA[It's been a month since I started writing and uploading youtube videos. Just taking a minute to thank everyone for their support and sharing…]]></description><link>https://rishabh1403.composts/life/2018/09/new-mornings-new-subscribers/</link><guid isPermaLink="false">https://rishabh1403.composts/life/2018/09/new-mornings-new-subscribers/</guid><pubDate>Thu, 20 Sep 2018 16:05:47 GMT</pubDate><content:encoded>&lt;p&gt;It&apos;s been a month since I started writing and uploading youtube videos. Just taking a minute to thank everyone for their support and sharing some stats for this month.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/LJ6nUUZpBiE?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Mornings New Subscribers]]></title><description><![CDATA[It's been a month since I started writing and uploading youtube videos. Just taking a minute to thank everyone for their support and sharing…]]></description><link>https://rishabh1403.composts/life/2018/09/new-mornings-new-subscribers/</link><guid isPermaLink="false">https://rishabh1403.composts/life/2018/09/new-mornings-new-subscribers/</guid><pubDate>Thu, 20 Sep 2018 16:05:47 GMT</pubDate><content:encoded>&lt;p&gt;It&apos;s been a month since I started writing and uploading youtube videos. Just taking a minute to thank everyone for their support and sharing some stats for this month.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Thank You&lt;/h1&gt;
 &lt;p&gt;Hey everyone, thank you so much for your support on my YouTube Channel as well as on blog over here. It&apos;s been a month since I started writting and I am loving it. The initial periods were tough and went very slow, however this just feels like one of my hobbies which I love and I enjoy recording videos as well as writing over here. All of this was possible because of your support, constructive criticism, and honest feedback. It kept me motivated to upload and write almost every day, and I plan to keep doing that as long as I can.&lt;/p&gt;
@@ -1027,7 +1087,22 @@
 &lt;p&gt;Let&apos;s review what are the highlights to take away from this question. We take a bunch of variables as input and then discussed the logic. Next we take the distance each fruit travels as input one by one and add it to tree co-ordinate to check if it falls in the line segment, and finally print our result in the desired format. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/apple-and-orange.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube UJBdyCUR4h8 &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[PUBG: A New Gaming Sensation]]></title><description><![CDATA[I know I am late late to the party, still a bit about PUBG.HistoryAfter sensational games like Candy Crush, Clash of Clans, PokemonGo…]]></description><link>https://rishabh1403.composts/games/pubg/2018/09/pubg-a-new-gaming-sensation/</link><guid isPermaLink="false">https://rishabh1403.composts/games/pubg/2018/09/pubg-a-new-gaming-sensation/</guid><pubDate>Mon, 17 Sep 2018 17:43:22 GMT</pubDate><content:encoded>&lt;p&gt;I know I am late late to the party, still a bit about PUBG.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/UJBdyCUR4h8?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[PUBG: A New Gaming Sensation]]></title><description><![CDATA[I know I am late late to the party, still a bit about PUBG.HistoryAfter sensational games like Candy Crush, Clash of Clans, PokemonGo…]]></description><link>https://rishabh1403.composts/games/pubg/2018/09/pubg-a-new-gaming-sensation/</link><guid isPermaLink="false">https://rishabh1403.composts/games/pubg/2018/09/pubg-a-new-gaming-sensation/</guid><pubDate>Mon, 17 Sep 2018 17:43:22 GMT</pubDate><content:encoded>&lt;p&gt;I know I am late late to the party, still a bit about PUBG.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;History&lt;/h1&gt;
 &lt;p&gt;After sensational games like Candy Crush, Clash of Clans, PokemonGo; Player Unkowns Battle Ground is new gaming sensation among youth. PLAYER UNKNOWN&apos;S BATTLEGROUNDS (PUBG) is a competitive survival shooter formally developed/published by Bluehole. PUBG is now being developed by PUBG Corp, a Bluehole subsidiary company in cooperation with Brendan Greene (PLAYERUNKNOWN) as the Creative Director, PUBG is Greene&apos;s first standalone game.&lt;/p&gt;
@@ -1217,7 +1292,22 @@
 &lt;p&gt;Let&apos;s review what are the highlights to take away from this question. To get a lower multiple of five of a particular number just divide that number by five and again multiply it by five. If you think about this and this alone, every thing was based on this logic. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/grading-students.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube Dk7QrcfYBjE &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Time Conversion in Golang]]></title><description><![CDATA[In this one we will solve the last question from warmup section from hackerrank. Time Conversion. A quick and easy one, which only requires…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/</guid><pubDate>Tue, 11 Sep 2018 16:25:09 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve the last question from warmup section from hackerrank. Time Conversion. A quick and easy one, which only requires some formatting. Let&apos;s dive right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/Dk7QrcfYBjE?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Time Conversion in Golang]]></title><description><![CDATA[In this one we will solve the last question from warmup section from hackerrank. Time Conversion. A quick and easy one, which only requires…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-time-conversion-in-golang/</guid><pubDate>Tue, 11 Sep 2018 16:25:09 GMT</pubDate><content:encoded>&lt;p&gt;In this one we will solve the last question from warmup section from hackerrank. Time Conversion. A quick and easy one, which only requires some formatting. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/time-conversion/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we are given a time in 12-hour format i.e. AM-PM format and we have to convert it into military (24 hour) time format.
@@ -1333,7 +1423,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;let&apos;s review what are the highlights to take away from this question. We could have solved this question using string manipulation as well as using formatted input and output methods. We went for the latter because as you can see, it made the code much smaller and simpler. Once we got the inputs in the desired formats we wanted, it was just a matter of simple logic and formatted printing. This was the last question from hackerrank warmup section, if hackerrank adds anymore question to this section, I will add a solution on my blog and upload a video for it, but for now, we are done with this section and will move to implementation section. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/time-conversion.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube jX8hNDV7P9o &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 7 | If Else and Ternary Operators in Dart]]></title><description><![CDATA[In this post we will cover the if-else statement in Dart. If-else block is one of the basic building blocks of many programming languages…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-7-if-else-and-ternary-operators-in-dart/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-7-if-else-and-ternary-operators-in-dart/</guid><pubDate>Mon, 10 Sep 2018 14:15:19 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will cover the if-else statement in Dart. If-else block is one of the basic building blocks of many programming languages, let&apos;s look into it right away.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/jX8hNDV7P9o?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 7 | If Else and Ternary Operators in Dart]]></title><description><![CDATA[In this post we will cover the if-else statement in Dart. If-else block is one of the basic building blocks of many programming languages…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-7-if-else-and-ternary-operators-in-dart/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-7-if-else-and-ternary-operators-in-dart/</guid><pubDate>Mon, 10 Sep 2018 14:15:19 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will cover the if-else statement in Dart. If-else block is one of the basic building blocks of many programming languages, let&apos;s look into it right away.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Conditions in a Program&lt;/h1&gt;
 &lt;p&gt;Many a times in a program we are required to check for a particular condition. Based on the truth of condition i.e. if the condition is either is true or false we execute a set of instructions. In Dart &lt;code class=&quot;language-text&quot;&gt;If-Else&lt;/code&gt; is one of the few ways to check for conditions in our program. On it&apos;s own, &lt;strong&gt;&lt;em&gt;if-else&lt;/em&gt;&lt;/strong&gt; is pretty simple to write and understand, it really shines when it is combined with other powerful concepts of the language and can be used to write some pretty complex logic. Let&apos;s look into &lt;strong&gt;&lt;em&gt;if-else&lt;/em&gt;&lt;/strong&gt; syntax and some examples.&lt;/p&gt;
@@ -1391,7 +1496,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;Okay so everything we have inside the print is part of our ternary operator. Ternary operators start with a condition, usually it&apos;s good to wrap ur condition in a paranthesis , but it is not required. Next we have a &lt;code class=&quot;language-text&quot;&gt;?&lt;/code&gt;. Anything we write between &lt;code class=&quot;language-text&quot;&gt;?&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;:&lt;/code&gt; is run if the condition is true, and anything we write after the &lt;code class=&quot;language-text&quot;&gt;:&lt;/code&gt; is run id the condition was false. In our case since the condition was true, it will return &lt;code class=&quot;language-text&quot;&gt;&amp;quot;condtion is true&amp;quot;&lt;/code&gt; and that would be printed. This is it for this one. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube zOyVj81gYnw &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 6 | Built-In Types Part 2]]></title><description><![CDATA[In the last post we discussed numbers, strings and booleans. In this one, we will conclude built-in types by discussing lists and maps. Let…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-6-built-in-types-part-2/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-6-built-in-types-part-2/</guid><pubDate>Fri, 07 Sep 2018 14:15:11 GMT</pubDate><content:encoded>&lt;p&gt;In the last post we discussed numbers, strings and booleans. In this one, we will conclude built-in types by discussing lists and maps. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/zOyVj81gYnw?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 6 | Built-In Types Part 2]]></title><description><![CDATA[In the last post we discussed numbers, strings and booleans. In this one, we will conclude built-in types by discussing lists and maps. Let…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-6-built-in-types-part-2/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-6-built-in-types-part-2/</guid><pubDate>Fri, 07 Sep 2018 14:15:11 GMT</pubDate><content:encoded>&lt;p&gt;In the last post we discussed numbers, strings and booleans. In this one, we will conclude built-in types by discussing lists and maps. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Lists in Dart&lt;/h1&gt;
 &lt;p&gt;Lists are basically a list of numbers or words or both. Let&apos;s say you want to store age of all the students in a class. You would need a list. Let&apos;s say you need to store list of names of all cities in the world, you would need a List. Just like variables, there are multiple ways to declare a list, let&apos;s have a look at them.&lt;/p&gt;
@@ -1472,7 +1592,22 @@ Couple of things to note here is &lt;/p&gt;
     b&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;abs&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;    &lt;span class=&quot;token comment&quot;&gt;// error&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;We reference maps just like lists, using &lt;code class=&quot;language-text&quot;&gt;[]&lt;/code&gt;. We can change or add the values using the square bracket too. Declaring a map constant is very similar to list as well. We can also find length of a map just like a list too. This is it for this one. Will see you in the next one. There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube CkDwBHWnopU &gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 5 | Built-In Types Part 1]]></title><description><![CDATA[In this post we will discuss some of the built-in types in dart. We will cover numbers, strings, and booleans. Let's get started.Built-in…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-5-built-in-types-part-1/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-5-built-in-types-part-1/</guid><pubDate>Tue, 04 Sep 2018 16:00:59 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will discuss some of the built-in types in dart. We will cover numbers, strings, and booleans. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/CkDwBHWnopU?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 5 | Built-In Types Part 1]]></title><description><![CDATA[In this post we will discuss some of the built-in types in dart. We will cover numbers, strings, and booleans. Let's get started.Built-in…]]></description><link>https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-5-built-in-types-part-1/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/09/dart-programming-language-tutorial-part-5-built-in-types-part-1/</guid><pubDate>Tue, 04 Sep 2018 16:00:59 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will discuss some of the built-in types in dart. We will cover numbers, strings, and booleans. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Built-in Types&lt;/h1&gt;
 &lt;p&gt;What are built-in types? These are the types that a variable can be of and are already defined in dart i.e. built into dart programming language by default. Does that mean we can have our own custom types too ? Yes, we can. So dart is an object oriented programming language, and everything is an object. Every variable in Dart refers to an object i.e. it is an instance of a class. To make our custom type we just need to make sure the variable is an object, an instance of a class that we wrote, and that is how we can have our own type of variables. Pretty cool ha..!!!. We will look into creating classes and objects later on, for now let&apos;s stick to these built-in types and discuss these in detail. There are two parts of this post, in this one we will discuss about &lt;strong&gt;&lt;em&gt;numbers, strings, and booleans&lt;/em&gt;&lt;/strong&gt; and we will conclude the rest of them in the next one.&lt;/p&gt;
@@ -1504,7 +1639,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;That&apos;s it for this one, there are some more things to cover in Strings which we will cover shortly. See you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube WCNVPQ1sB6o &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Birthday Cake Candles in Golang]]></title><description><![CDATA[In this post we will solve question Birthday Cake Candles from hackerrank. This is one of those questions, which packs a fancy description…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/</guid><pubDate>Mon, 03 Sep 2018 14:05:03 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question Birthday Cake Candles from hackerrank. This is one of those questions, which packs a fancy description but in the end needs a simple logic to solve. Let&apos;s dive right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/WCNVPQ1sB6o?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Birthday Cake Candles in Golang]]></title><description><![CDATA[In this post we will solve question Birthday Cake Candles from hackerrank. This is one of those questions, which packs a fancy description…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-birthday-cake-candles-in-golang/</guid><pubDate>Mon, 03 Sep 2018 14:05:03 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question Birthday Cake Candles from hackerrank. This is one of those questions, which packs a fancy description but in the end needs a simple logic to solve. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/birthday-cake-candles/problem&quot;&gt;link&lt;/a&gt;. The problem statement states something about birthday and candles. In simple terms it wants us to calculate the number of times the maxiumum element in a given list of numbers occurred. We will need an array, then we will find which is the maximum element in the array, and then we will traverse the array and count the number of times the maximum element is present in the array.&lt;/p&gt;
@@ -1651,7 +1801,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;Let&apos;s review what are the highlights to take away from this question. We can use slices instead of an array, which gives us a greater flexibility on some operations like adding and removing elements to and from an slice. We discussed how to add a value to slice, and we also learned how to loop over a slice using &lt;code class=&quot;language-text&quot;&gt;range&lt;/code&gt;. We also covered how to ignore a variable in Golang, so that it doesn&apos;t throw an error on compilation if the variable is not used. Range gives us two vaalues i.e. the index and the value of the index, represented here using &lt;code class=&quot;language-text&quot;&gt;_, num&lt;/code&gt;. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/birthday-cake-candles.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube 3iT1akTZzqU &gt;}} &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Mini-Max Sum in Golang]]></title><description><![CDATA[In this post we will solve question mini-max sum from hackerrank. Here we will learn a bit about make in golang along with a new golang…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-mini-max-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-mini-max-sum-in-golang/</guid><pubDate>Sun, 02 Sep 2018 13:05:00 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question mini-max sum from hackerrank. Here we will learn a bit about make in golang along with a new golang package called sort. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/3iT1akTZzqU?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+           &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Mini-Max Sum in Golang]]></title><description><![CDATA[In this post we will solve question mini-max sum from hackerrank. Here we will learn a bit about make in golang along with a new golang…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-mini-max-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-mini-max-sum-in-golang/</guid><pubDate>Sun, 02 Sep 2018 13:05:00 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question mini-max sum from hackerrank. Here we will learn a bit about make in golang along with a new golang package called sort. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/mini-max-sum/problem&quot;&gt;link&lt;/a&gt;. The problem statement basically states that we are given an array of five integers, and we need to print maximum possible sum of any four numbers and minimum possible sum of any four numbers.
@@ -1770,7 +1935,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;Now that we have a working solution, let&apos;s discuss why we didn&apos;t go with our &lt;code class=&quot;language-text&quot;&gt;[]int&lt;/code&gt; declaration and instead went ahead with &lt;code class=&quot;language-text&quot;&gt;make&lt;/code&gt;. So in the first case we get an array while in second case we get a slice which refers to an array. What are slices? Slices are just like arrays, but their length is not fixed. They can grow and shrink. So why did we need slices? The reason is very simple, the &lt;code class=&quot;language-text&quot;&gt;Ints&lt;/code&gt; function from &lt;code class=&quot;language-text&quot;&gt;sort&lt;/code&gt; package takes a slice as an argument instead of an array, thus we went ahead and used a slice. Can we still solve this question using arrays? Yes, sort the array yourself. The length is very small, even if you use selection sort, no worries. Is there any other way to declare and work with slices? Yes we will look into some very soon. This is it for this one, complete source code for this post can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/mini-max-sum.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to end of the post. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube -LlUwKzx-0k &gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Staircase in Golang]]></title><description><![CDATA[In this post we will solve question staircase from Hackerrank. A simple one, only requires to decode the logic for pattern. Will need if…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/</guid><pubDate>Sat, 01 Sep 2018 11:15:26 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question staircase from Hackerrank. A simple one, only requires to decode the logic for pattern. Will need if-else and a nested for loop. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/-LlUwKzx-0k?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Staircase in Golang]]></title><description><![CDATA[In this post we will solve question staircase from Hackerrank. A simple one, only requires to decode the logic for pattern. Will need if…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/09/hackerrank-solution-of-staircase-in-golang/</guid><pubDate>Sat, 01 Sep 2018 11:15:26 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question staircase from Hackerrank. A simple one, only requires to decode the logic for pattern. Will need if-else and a nested for loop. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/staircase/problem&quot;&gt;link&lt;/a&gt;. The problem statement basically states that we need to print the given pattern for any given number as input.
@@ -1890,7 +2070,22 @@ Couple of things to note here is &lt;/p&gt;
 &lt;p&gt;So this is it for this one guys, complete source code for this one can be found on my &lt;a href=&quot;https://github.com/rishabh1403/hackerrank-golang-solutions/blob/master/practice/algorithms/warmup/staircase.go&quot;&gt;Github Repo&lt;/a&gt;. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube f9hHJSxUfX4 &gt;}} &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Plus Minus in Golang]]></title><description><![CDATA[In this post we will solve question plus minus from hackerrank. An easy one which only requires some type casting and formatted printing…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-plus-minus-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-plus-minus-in-golang/</guid><pubDate>Fri, 31 Aug 2018 14:40:21 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question plus minus from hackerrank. An easy one which only requires some type casting and formatted printing. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/f9hHJSxUfX4?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+           &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Plus Minus in Golang]]></title><description><![CDATA[In this post we will solve question plus minus from hackerrank. An easy one which only requires some type casting and formatted printing…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-plus-minus-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-plus-minus-in-golang/</guid><pubDate>Fri, 31 Aug 2018 14:40:21 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve question plus minus from hackerrank. An easy one which only requires some type casting and formatted printing. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/plus-minus/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we are given an array of elements, and we need to print the fraction of positive, negative and zero numbers from the list.&lt;/p&gt;
@@ -2035,7 +2230,22 @@ So your code should look something like this. &lt;/li&gt;
 &lt;p&gt;So this is it for this one, we learned some type casting and formatted printing in golang. Will see you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube 7996I_bqVmk &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Diagonal Difference in Golang]]></title><description><![CDATA[In this post we will solve the question diagonal difference from hackerrank in golang. We will learn how to create and use a 2-D matrix in…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-diagonal-difference-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-diagonal-difference-in-golang/</guid><pubDate>Thu, 30 Aug 2018 13:35:56 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve the question diagonal difference from hackerrank in golang. We will learn how to create and use a 2-D matrix in Golang and how to traverse over it. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/7996I_bqVmk?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank | Solution of Diagonal Difference in Golang]]></title><description><![CDATA[In this post we will solve the question diagonal difference from hackerrank in golang. We will learn how to create and use a 2-D matrix in…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-diagonal-difference-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-diagonal-difference-in-golang/</guid><pubDate>Thu, 30 Aug 2018 13:35:56 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will solve the question diagonal difference from hackerrank in golang. We will learn how to create and use a 2-D matrix in Golang and how to traverse over it. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/diagonal-difference/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we need to calculate the absolute difference of sum of elements of left and diagonal of a square matrix(a 2-D array whose rows and columns length are same).&lt;/p&gt;
@@ -2256,7 +2466,22 @@ So your code should look something like this. &lt;/li&gt;
 &lt;p&gt;We learned a lot of good stuff in this one, and we are definitely making good progress on our hackerrank golang journey. That&apos;s it for this one. See you in the next one.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube 4b0RpyRfKY8 &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 4 | Comments]]></title><description><![CDATA[In this post we will look into various ways in which we can write comments in dart. Let's get started.Quick NoteIf you notice our original…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-4-comments/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-4-comments/</guid><pubDate>Wed, 29 Aug 2018 19:45:14 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will look into various ways in which we can write comments in dart. Let&apos;s get started.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/4b0RpyRfKY8?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 4 | Comments]]></title><description><![CDATA[In this post we will look into various ways in which we can write comments in dart. Let's get started.Quick NoteIf you notice our original…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-4-comments/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-4-comments/</guid><pubDate>Wed, 29 Aug 2018 19:45:14 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will look into various ways in which we can write comments in dart. Let&apos;s get started.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Quick Note&lt;/h1&gt;
 &lt;p&gt;If you notice our original road map, we had data types before comments. Comments were the third topic in the list, but we are taking it just after variables. There are two reasons for this quick diversion &lt;/p&gt;
@@ -2287,7 +2512,22 @@ So your code should look something like this. &lt;/li&gt;
 &lt;p&gt;Here &lt;code class=&quot;language-text&quot;&gt;[alpha]&lt;/code&gt; will become a link to the original variable alpha where it was declared. &lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts. Subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; and my mailing list below for regular updates. Follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube REP2btkSM7k &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 3 | Final,Const, and Default Values]]></title><description><![CDATA[In the last post we looked into how to declare and print variables. In this post we will conclude the section on variables by discussing…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-3-final-const-default-values/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-3-final-const-default-values/</guid><pubDate>Wed, 29 Aug 2018 16:15:47 GMT</pubDate><content:encoded>&lt;p&gt;In the last post we looked into how to declare and print variables. In this post we will conclude the section on variables by discussing about final and const keywords and default values.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/REP2btkSM7k?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 3 | Final,Const, and Default Values]]></title><description><![CDATA[In the last post we looked into how to declare and print variables. In this post we will conclude the section on variables by discussing…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-3-final-const-default-values/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-3-final-const-default-values/</guid><pubDate>Wed, 29 Aug 2018 16:15:47 GMT</pubDate><content:encoded>&lt;p&gt;In the last post we looked into how to declare and print variables. In this post we will conclude the section on variables by discussing about final and const keywords and default values.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;What&apos;s the need of a constant ?&lt;/h1&gt;
 &lt;p&gt;Variable as the name suggests varies over time, i.e. the value it holds changes. However sometimes we don&apos;t want values that a variable holds to change over the course of a program. Let&apos;s say we are storing the value of &lt;code class=&quot;language-text&quot;&gt;pi&lt;/code&gt; in our code to do some calculations. Now we don&apos;t want someone to change the value that our &lt;code class=&quot;language-text&quot;&gt;pi&lt;/code&gt; variable is storing by mistake. In that case we need to take some measures to make sure no one changes the value of these variables or more correctly &lt;code class=&quot;language-text&quot;&gt;constants&lt;/code&gt;. We can declare a constatnt using either &lt;code class=&quot;language-text&quot;&gt;final&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;const&lt;/code&gt; keyword.&lt;/p&gt;
@@ -2325,7 +2565,22 @@ Points to note with these declarations are&lt;/p&gt;
 &lt;p&gt;In the above code snippet, I declared a variable &lt;code class=&quot;language-text&quot;&gt;a&lt;/code&gt;, but didn&apos;t assign any value to it. Dart by default assigns &lt;code class=&quot;language-text&quot;&gt;null&lt;/code&gt; to it while declaration. In the next line we are just proving that &lt;code class=&quot;language-text&quot;&gt;a&lt;/code&gt; is null. If that was not the case, the &lt;code class=&quot;language-text&quot;&gt;assert&lt;/code&gt; statement would have thrown an error. That&apos;s it for this one guys, with this we have concluded our variables section. In the next one we will start with something new and more exciting. &lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, subscribe to my mailing list below, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube syqItkjNYHo &gt;}}  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 2 | Variables]]></title><description><![CDATA[In this post we will look into various ways in which we can declare and use variable. We will also learn some syntax of dart and how to…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-2-variables/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-2-variables/</guid><pubDate>Tue, 28 Aug 2018 14:30:01 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will look into various ways in which we can declare and use variable. We will also learn some syntax of dart and how to print values of variables. Let&apos;s dive right into it.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/syqItkjNYHo?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+            &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 2 | Variables]]></title><description><![CDATA[In this post we will look into various ways in which we can declare and use variable. We will also learn some syntax of dart and how to…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-2-variables/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-2-variables/</guid><pubDate>Tue, 28 Aug 2018 14:30:01 GMT</pubDate><content:encoded>&lt;p&gt;In this post we will look into various ways in which we can declare and use variable. We will also learn some syntax of dart and how to print values of variables. Let&apos;s dive right into it.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;The main function&lt;/h1&gt;
 &lt;p&gt;Every dart program starts executing from a main function. What is a function? How do we use it? Weren&apos;t we going to learn about variables? Hold on, just bear with me for couple of posts till we will write all our code inside a wrapper. So open &lt;a href=&quot;https://dartpad.dartlang.org/&quot;&gt;dartpad&lt;/a&gt; and let&apos;s start coding. &lt;/p&gt;
@@ -2386,7 +2641,22 @@ your program, you need some place, a container to store that number &lt;code cla
 &lt;p&gt;Notice two things here, I changed the value of &lt;code class=&quot;language-text&quot;&gt;c&lt;/code&gt; to a string, I cannot do the same thing with &lt;code class=&quot;language-text&quot;&gt;a&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;b&lt;/code&gt; . Second, semicolons in dart are &lt;strong&gt;&lt;em&gt;required&lt;/em&gt;&lt;/strong&gt;. Next is a simple print statement to print the values of our variables to screen.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, subscribe to my mailing list below, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube gL7hifdjsoY &gt;}} &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 1 | Series Introduction]]></title><description><![CDATA[A general introduction to my dart programming language tutorial series. The post contains what dart is, which topics I am going to cover…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-1-series-introduction/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-1-series-introduction/</guid><pubDate>Mon, 27 Aug 2018 14:45:08 GMT</pubDate><content:encoded>&lt;p&gt;A general introduction to my dart programming language tutorial series. The post contains what dart is, which topics I am going to cover here and future plans. So let&apos;s dive right into the post.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/gL7hifdjsoY?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+           &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dart Programming Language Tutorial Part 1 | Series Introduction]]></title><description><![CDATA[A general introduction to my dart programming language tutorial series. The post contains what dart is, which topics I am going to cover…]]></description><link>https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-1-series-introduction/</link><guid isPermaLink="false">https://rishabh1403.composts/dart/2018/08/dart-programming-language-tutorial-part-1-series-introduction/</guid><pubDate>Mon, 27 Aug 2018 14:45:08 GMT</pubDate><content:encoded>&lt;p&gt;A general introduction to my dart programming language tutorial series. The post contains what dart is, which topics I am going to cover here and future plans. So let&apos;s dive right into the post.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;A Gentle Introduction to Dart&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/posts/dart/2018/08/dart1.png&quot; alt=&quot;dart1.png&quot;&gt;&lt;/p&gt;
@@ -2402,7 +2672,22 @@ We have a long road ahead. &lt;/p&gt;
 &lt;p&gt;We won&apos;t be doing any local setup in this series. For our use case, we will use dartpad. That is a good enough online text editor for learning and practicing dart (&lt;strong&gt;&lt;em&gt;i mean the dart lang&lt;/em&gt;&lt;/strong&gt;). However we will setup our local development environment when we are getting into projects, and then we will download and install our local copy of dart.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, subscribe to my mailing list below, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube lhoU89vGapE &gt;}} &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of A Very Big Sum in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question a very big sum in golang. This question is very similar to simple array sum problem. The only…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-a-very-big-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-a-very-big-sum-in-golang/</guid><pubDate>Sun, 26 Aug 2018 13:15:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question a very big sum in golang. This question is very similar to simple array sum problem. The only difference being that the input array is huge. Let&apos;s tackle that in this blog post.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/lhoU89vGapE?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+           &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of A Very Big Sum in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question a very big sum in golang. This question is very similar to simple array sum problem. The only…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-a-very-big-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-a-very-big-sum-in-golang/</guid><pubDate>Sun, 26 Aug 2018 13:15:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question a very big sum in golang. This question is very similar to simple array sum problem. The only difference being that the input array is huge. Let&apos;s tackle that in this blog post.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/a-very-big-sum/problem&quot;&gt;link&lt;/a&gt;. The problem statement basically states that we need to print the sum of an array of integers whose length is provided as input.
@@ -2521,7 +2806,22 @@ So your solution should look something like this. &lt;/li&gt;
 So that is the reason both of the code snippets work and pass all the test cases.&lt;/p&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, subcribe to my mailing list below, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a  comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube LhgqF1vzkGc&gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of Compare the Triplets in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question compare the triplets in golang. In this question we will use if-else statement and arrays in golang…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-compare-the-triplets-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-compare-the-triplets-in-golang/</guid><pubDate>Sat, 25 Aug 2018 17:30:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question compare the triplets in golang. In this question we will use if-else statement and arrays in golang for the first time along with for loops that we covered earlier.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/LhgqF1vzkGc?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of Compare the Triplets in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question compare the triplets in golang. In this question we will use if-else statement and arrays in golang…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-compare-the-triplets-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-compare-the-triplets-in-golang/</guid><pubDate>Sat, 25 Aug 2018 17:30:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question compare the triplets in golang. In this question we will use if-else statement and arrays in golang for the first time along with for loops that we covered earlier.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/compare-the-triplets/problem&quot;&gt;link&lt;/a&gt;. The problem statement states that we need to compare two sets of inputs and provide a result based on the comparison.&lt;br&gt;
@@ -2676,7 +2976,22 @@ Now we need to declare two more variables for storing result of the comparison, 
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, subcribe to my mailing list below, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube 4y8ceyunvOQ&gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of Simple Array Sum in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question simple array sum in golang. In this blog I'll discuss my solution, what mistakes I initially made…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-simple-array-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-simple-array-sum-in-golang/</guid><pubDate>Fri, 24 Aug 2018 19:25:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question simple array sum in golang. In this blog I&apos;ll discuss my solution, what mistakes I initially made and what concepts I learned.&lt;!--more--&gt;&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/4y8ceyunvOQ?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solution of Simple Array Sum in Golang]]></title><description><![CDATA[Solution for hackerrank warmup question simple array sum in golang. In this blog I'll discuss my solution, what mistakes I initially made…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-simple-array-sum-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solution-of-simple-array-sum-in-golang/</guid><pubDate>Fri, 24 Aug 2018 19:25:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question simple array sum in golang. In this blog I&apos;ll discuss my solution, what mistakes I initially made and what concepts I learned.&lt;!--more--&gt;&lt;/p&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/simple-array-sum/problem&quot;&gt;link&lt;/a&gt;. The problem statement basically states that we need to print the sum of an array of integers whose length is provided as input.
 Couple of things to note here is &lt;/p&gt;
@@ -2804,7 +3119,22 @@ Then we are taking a integer input in temp. Next We are adding that to sum. &lt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a  comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube lUftBPb2gx0&gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solve Me First Solution]]></title><description><![CDATA[Solution for hackerrank warmup question solve me first in golang. In this blog I'll discuss my solution, what mistakes I initially made and…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solve-me-first-solution/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solve-me-first-solution/</guid><pubDate>Wed, 22 Aug 2018 07:02:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question solve me first in golang. In this blog I&apos;ll discuss my solution, what mistakes I initially made and what concepts I learned.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/lUftBPb2gx0?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solve Me First Solution]]></title><description><![CDATA[Solution for hackerrank warmup question solve me first in golang. In this blog I'll discuss my solution, what mistakes I initially made and…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solve-me-first-solution/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solve-me-first-solution/</guid><pubDate>Wed, 22 Aug 2018 07:02:09 GMT</pubDate><content:encoded>&lt;p&gt;Solution for hackerrank warmup question solve me first in golang. In this blog I&apos;ll discuss my solution, what mistakes I initially made and what concepts I learned.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Problem Statement&lt;/h1&gt;
 &lt;p&gt;The question can be found at this &lt;a href=&quot;https://www.hackerrank.com/challenges/solve-me-first/problem&quot;&gt;link&lt;/a&gt;. The question is pretty straight forward. We have to take two integers as input, and print their sum.
@@ -2869,7 +3199,22 @@ Now your complete code should look like&lt;/p&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;There you go guys, you made it to the end of the blog. Please check out the video below if you still have any doubts, subscribe to my &lt;a href=&quot;https://www.youtube.com/channel/UC4syrEYE9_fzeVBajZIyHlA&quot;&gt;youtube channel&lt;/a&gt; for regular updates, follow me on &lt;a href=&quot;https://www.twitter.com/rishabhjain1403&quot;&gt;twitter&lt;/a&gt; , drop me a mail or leave a  comment here if you still have any doubts and I will try my best to help you out. Thanks&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you around :)
-{{&amp;#x3C; youtube yNzVtH2xsfQ &gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solutions in Golang]]></title><description><![CDATA[My solutions to hackerrank practice problems in golang with explantions.Starting GolangI used to do competitive programming in my college…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solutions-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solutions-in-golang/</guid><pubDate>Tue, 21 Aug 2018 07:02:25 GMT</pubDate><content:encoded>&lt;p&gt;My solutions to hackerrank practice problems in golang with explantions.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/yNzVtH2xsfQ?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hackerrank Solutions in Golang]]></title><description><![CDATA[My solutions to hackerrank practice problems in golang with explantions.Starting GolangI used to do competitive programming in my college…]]></description><link>https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solutions-in-golang/</link><guid isPermaLink="false">https://rishabh1403.composts/coding/hackerrank/2018/08/hackerrank-solutions-in-golang/</guid><pubDate>Tue, 21 Aug 2018 07:02:25 GMT</pubDate><content:encoded>&lt;p&gt;My solutions to hackerrank practice problems in golang with explantions.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Starting Golang&lt;/h1&gt;
 &lt;p&gt;I used to do competitive programming in my college days and from there on moved to web development. It&apos;s been a long time since I looked back and I think it&apos;s high time I should start coding again. I also started learning &lt;a href=&quot;https://golang.org/&quot;&gt;Golang&lt;/a&gt; recently, so I think it would be better to practice it on some code snippets online and test it for time and space complexity along the way. &lt;/p&gt;
@@ -2878,7 +3223,22 @@ Now your complete code should look like&lt;/p&gt;
 &lt;h2&gt;Posting solutions&lt;/h2&gt;
 &lt;p&gt;I would be posting solutions to all the questions that I solve as blog posts here explaining the approach I took, what problems I faced and so on. The solutions would be in &lt;a href=&quot;https://golang.org/&quot;&gt;Golang&lt;/a&gt; because that is the language I am trying to learn here.&lt;/p&gt;
 &lt;p&gt;Stay tuned and see you later :)
-{{&amp;#x3C; youtube UsNVC8hB7q4 &gt;}}&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Blog New Beginnings]]></title><description><![CDATA[My first blog. Just getting the hang of it and posting some random thoughts.Quick BackgroundMy first blog. Just getting the hang of it and…]]></description><link>https://rishabh1403.composts/life/2018/08/new-blog-new-beginnings/</link><guid isPermaLink="false">https://rishabh1403.composts/life/2018/08/new-blog-new-beginnings/</guid><pubDate>Mon, 20 Aug 2018 19:47:37 GMT</pubDate><content:encoded>&lt;p&gt;My first blog. Just getting the hang of it and posting some random thoughts.&lt;/p&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/UsNVC8hB7q4?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Blog New Beginnings]]></title><description><![CDATA[My first blog. Just getting the hang of it and posting some random thoughts.Quick BackgroundMy first blog. Just getting the hang of it and…]]></description><link>https://rishabh1403.composts/life/2018/08/new-blog-new-beginnings/</link><guid isPermaLink="false">https://rishabh1403.composts/life/2018/08/new-blog-new-beginnings/</guid><pubDate>Mon, 20 Aug 2018 19:47:37 GMT</pubDate><content:encoded>&lt;p&gt;My first blog. Just getting the hang of it and posting some random thoughts.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;h1&gt;Quick Background&lt;/h1&gt;
 &lt;p&gt;My first blog. Just getting the hang of it and posting some random thoughts.
@@ -2890,4 +3250,19 @@ Well technically speaking it&apos;s not my first blog. I have tried starting a b
 &lt;h2&gt;Are you done?&lt;/h2&gt;
 &lt;p&gt;Won&apos;t bore you anymore. This time I am not going to fail. Sincere motivation :), at least one post per week is what I am targeting for.&lt;/p&gt;
 &lt;p&gt;See you around :)
-{{&amp;#x3C; youtube I8&lt;em&gt;pURh3l&lt;/em&gt;s &gt;}}&lt;/p&gt;</content:encoded></item></channel></rss>
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;div class=&quot;embedVideo-container&quot;&gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/I8_pURh3l_s?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;</content:encoded></item></channel></rss>
