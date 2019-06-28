@@ -44,7 +44,7 @@
         }
       }
     })
-  </script><link rel="alternate" type="application/rss+xml" title="Rishabh Jain&#x27;s Blog RSS Feed" href="/index.xml"/><link as="script" rel="preload" href="/styles-4beecf9fca9e54f05bef.js"/><link as="script" rel="preload" href="/component---src-templates-blog-js-42e8fe618a02bd8d675c.js"/><link as="script" rel="preload" href="/2-9cdf49c14e87b6d8bf81.js"/><link as="script" rel="preload" href="/1-4c44d35ce7f7d1dd7f77.js"/><link as="script" rel="preload" href="/app-7a163ba4cd8f8b5af442.js"/><link as="script" rel="preload" href="/webpack-runtime-4a14ee7643d9f90223b8.js"/><link as="fetch" rel="preload" href="/static/d/677/path---posts-docker-2018-09-a-brief-introduction-to-docker-2-c-1-b65-vMe6vSe2VDimTsLnU3Nhek37A.json" crossorigin="use-credentials"/><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+  </script><link rel="alternate" type="application/rss+xml" title="Rishabh Jain&#x27;s Blog RSS Feed" href="/index.xml"/><link as="script" rel="preload" href="/styles-4beecf9fca9e54f05bef.js"/><link as="script" rel="preload" href="/component---src-templates-blog-js-147e1ea8d9f241e0d164.js"/><link as="script" rel="preload" href="/2-9cdf49c14e87b6d8bf81.js"/><link as="script" rel="preload" href="/1-4c44d35ce7f7d1dd7f77.js"/><link as="script" rel="preload" href="/app-7a163ba4cd8f8b5af442.js"/><link as="script" rel="preload" href="/webpack-runtime-ee62489f2d900671cefa.js"/><link as="fetch" rel="preload" href="/static/d/744/path---posts-docker-2018-09-a-brief-introduction-to-docker-2-c-1-b65-fcXvm5hHx9MQb3aZ76xoq9FQXsQ.json" crossorigin="use-credentials"/><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
     (adsbygoogle = window.adsbygoogle || []).push({
       google_ad_client: "ca-pub-4315826066072683",
     enable_page_level_ads: true
@@ -55,7 +55,34 @@
 /static/05ff59a64d0a1b5046798c4190981a17/f4afe/docker.jpg 4000w,
 /static/05ff59a64d0a1b5046798c4190981a17/0b354/docker.jpg 6000w" src="/static/05ff59a64d0a1b5046798c4190981a17/883ab/docker.jpg" alt="" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/></picture></noscript></div><div class="singleBlog-module--blog--2vbxd"><div class="singleBlog-module--about-center--1Mi0X"><h1 class="singleBlog-module--heading--30lZE">A Brief Introduction to Docker</h1><div class="singleBlog-module--meta--3R9ll"><div>September 17th, 2018</div><div>|</div><div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm57.1 350.1L224.9 294c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h48c6.6 0 12 5.4 12 12v137.7l63.5 46.2c5.4 3.9 6.5 11.4 2.6 16.8l-28.2 38.8c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg>4 min read</div></div><div class="singleBlog-module--linkHolder--_lDTx"><a href="/categories/docker">#<!-- -->docker</a></div><div><p>In this post we will introduce dockers a bit, just a bit of preparation for what is to come in near future on my blog.</p>
 <!--more-->
-<p><img src="https://c1.staticflickr.com/1/778/22947137613_69a88cb94b_b.jpg" alt="Docker"></p>
+<p><a
+    class="gatsby-resp-image-link"
+    href="/static/bdeaf02f297ad9475b9f4ac606de7217/9c734/whale.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 792px;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 33.964646464646464%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdaglAv/xAAZEAABBQAAAAAAAAAAAAAAAAARAAETIiP/2gAIAQEAAQUC1kumI//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAAAQRIh/9oACAEBAAY/AplHX//EABoQAQABBQAAAAAAAAAAAAAAAAEAEBExUWH/2gAIAQEAAT8hTCin0F+T/9oADAMBAAIAAwAAABD7z//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAQv//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBdn//EABsQAAIDAAMAAAAAAAAAAAAAAAEhABFBMVFx/9oACAEBAAE/EDyJYKG0O60zT5pGKe3E/9k='); background-size: cover; display: block;"
+    ></span>
+    <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="Docker"
+        title=""
+        src="/static/bdeaf02f297ad9475b9f4ac606de7217/9c734/whale.jpg"
+        srcset="/static/bdeaf02f297ad9475b9f4ac606de7217/afcd2/whale.jpg 300w,
+/static/bdeaf02f297ad9475b9f4ac606de7217/82472/whale.jpg 600w,
+/static/bdeaf02f297ad9475b9f4ac606de7217/9c734/whale.jpg 792w"
+        sizes="(max-width: 792px) 100vw, 792px"
+      />
+  </span>
+  </a></p>
 <h2 id="the-origins"><a href="#the-origins" aria-label="the origins permalink" class="anchor"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>The Origins</h2>
 <p>The foundation for Docker was laid by Solomon Hykes, as an in-house project at dotCloud. <a href="www.docker.com">Docker</a> was made open source in March 2013, but the hype really began around June when Docker Inc. announced the release of Docker 1.0 and the rest is history. </p>
 <p>According to Docker, the number of applications containerized in the past years is somewhere in the vicinity of a whopping 3.5 million. Not only that, over 37 billion "dockerized" applications have been downloaded, thus far, and the number is growing by the minute.</p>
@@ -64,7 +91,34 @@
 <p>Basically, Docker makes life a whole lot simpler. It's appeal mainly lies in its ability to provision the delivery of lightweight, portable and isolated bundle of applications without the need of running multiple OS instances on a Hypervisor. It saves a ton of resources, thus <a href="https://www.docker.com/why-docker">"reducing the infrastructure and maintenance costs of supporting an existing application portfolio"</a>. Not to mention, the degree of ease which docker brings to the table helps a great deal in expediting the process of continuous integration, delivery, and deployment.</p>
 <h2 id="how-does-it-work"><a href="#how-does-it-work" aria-label="how does it work permalink" class="anchor"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>How does it work?</h2>
 <p>Docker is primarily developed for Linux and relies on its key component <strong>libcontainer</strong>, which enables direct leveraging of the virtualization facilities provisioned by the Linux kernel. Formerly, Docker relied on LXC as its default execution environment but it was dropped since the release of version <strong>0.9</strong>.</p>
-<p><img src="https://docs.docker.com/v17.09/engine/userguide/storagedriver/images/sharing-layers.jpg" alt="Layers of a container based on the Ubuntu image" title="Courtesy - https://docs.docker.com"></p>
+<p><a
+    class="gatsby-resp-image-link"
+    href="/static/21133d5dc07e6fdc837d1dfb58995f67/ee255/archi.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 769px;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 61.76853055916774%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB1YMLMNFgV//EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMSEP/aAAgBAQABBQJwqgWpoIBLF0BUvP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGsf//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAeEAABAwQDAAAAAAAAAAAAAAAAAREhEBIiMUFRkf/aAAgBAQAGPwJXulex8pNr6Sc0/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBEFH/2gAIAQEAAT8hcFTlBEMvqE0J3MAZbfJa3h5//9oADAMBAAIAAwAAABCr7//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFR/9oACAEDAQE/EEjwjh//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EBU7av/EABsQAQEAAwADAAAAAAAAAAAAAAERACExEFHR/9oACAEBAAE/EJN4W1HuvRheuJFQ4cuOwSuw48QCsGvups+eP//Z'); background-size: cover; display: block;"
+    ></span>
+    <img
+        class="gatsby-resp-image-image"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;"
+        alt="Layers of a container based on the Ubuntu image"
+        title="Courtesy - https://docs.docker.com"
+        src="/static/21133d5dc07e6fdc837d1dfb58995f67/ee255/archi.jpg"
+        srcset="/static/21133d5dc07e6fdc837d1dfb58995f67/afcd2/archi.jpg 300w,
+/static/21133d5dc07e6fdc837d1dfb58995f67/82472/archi.jpg 600w,
+/static/21133d5dc07e6fdc837d1dfb58995f67/ee255/archi.jpg 769w"
+        sizes="(max-width: 769px) 100vw, 769px"
+      />
+  </span>
+  </a></p>
 <h4 id="container"><a href="#container" aria-label="container permalink" class="anchor"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Container</h4>
 <blockquote>
 <p>A docker <strong>container</strong> runs natively on Linux and shares the kernel of the host machine with other containers. It runs a discrete process, taking no more memory than any other executable, making it lightweight.</p>
@@ -93,4 +147,4 @@
       
       
       }
-      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.page={"componentChunkName":"component---src-templates-blog-js","jsonName":"posts-docker-2018-09-a-brief-introduction-to-docker-2c1","path":"/posts/docker/2018/09/a-brief-introduction-to-docker/"};window.dataPath="677/path---posts-docker-2018-09-a-brief-introduction-to-docker-2-c-1-b65-vMe6vSe2VDimTsLnU3Nhek37A";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-7a163ba4cd8f8b5af442.js"],"component---src-templates-blog-js":["/component---src-templates-blog-js-42e8fe618a02bd8d675c.js"],"component---src-templates-categories-js":["/component---src-templates-categories-js-d0822946127d3a127aaf.js"],"component---src-templates-single-category-js":["/component---src-templates-single-category-js-7e45e36626f1c3fe00b5.js"],"component---src-templates-blog-list-js":["/component---src-templates-blog-list-js-b6fa05cf29b63a91f053.js"],"component---src-pages-404-js":["/component---src-pages-404-js-654c84c77a2db1257a11.js"],"component---src-pages-about-js":["/component---src-pages-about-js-1bf25aa2ede1f6060a2d.js"],"component---src-pages-index-js":["/component---src-pages-index-js-45708f7867a3284e5986.js"],"component---src-pages-posts-js":["/component---src-pages-posts-js-0842dbcd9b5eed6c38b1.js"],"pages-manifest":["/pages-manifest-38fb3b4e89b02b6c5235.js"]};/*]]>*/</script><script src="/webpack-runtime-4a14ee7643d9f90223b8.js" async=""></script><script src="/app-7a163ba4cd8f8b5af442.js" async=""></script><script src="/1-4c44d35ce7f7d1dd7f77.js" async=""></script><script src="/2-9cdf49c14e87b6d8bf81.js" async=""></script><script src="/component---src-templates-blog-js-42e8fe618a02bd8d675c.js" async=""></script><script src="/styles-4beecf9fca9e54f05bef.js" async=""></script></body></html>
+      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.page={"componentChunkName":"component---src-templates-blog-js","jsonName":"posts-docker-2018-09-a-brief-introduction-to-docker-2c1","path":"/posts/docker/2018/09/a-brief-introduction-to-docker/"};window.dataPath="744/path---posts-docker-2018-09-a-brief-introduction-to-docker-2-c-1-b65-fcXvm5hHx9MQb3aZ76xoq9FQXsQ";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-7a163ba4cd8f8b5af442.js"],"component---src-templates-blog-js":["/component---src-templates-blog-js-147e1ea8d9f241e0d164.js"],"component---src-templates-categories-js":["/component---src-templates-categories-js-d0822946127d3a127aaf.js"],"component---src-templates-single-category-js":["/component---src-templates-single-category-js-7e45e36626f1c3fe00b5.js"],"component---src-templates-blog-list-js":["/component---src-templates-blog-list-js-b6fa05cf29b63a91f053.js"],"component---src-pages-404-js":["/component---src-pages-404-js-654c84c77a2db1257a11.js"],"component---src-pages-about-js":["/component---src-pages-about-js-1bf25aa2ede1f6060a2d.js"],"component---src-pages-index-js":["/component---src-pages-index-js-45708f7867a3284e5986.js"],"component---src-pages-posts-js":["/component---src-pages-posts-js-0842dbcd9b5eed6c38b1.js"],"pages-manifest":["/pages-manifest-a8666c56e660e14fb121.js"]};/*]]>*/</script><script src="/webpack-runtime-ee62489f2d900671cefa.js" async=""></script><script src="/app-7a163ba4cd8f8b5af442.js" async=""></script><script src="/1-4c44d35ce7f7d1dd7f77.js" async=""></script><script src="/2-9cdf49c14e87b6d8bf81.js" async=""></script><script src="/component---src-templates-blog-js-147e1ea8d9f241e0d164.js" async=""></script><script src="/styles-4beecf9fca9e54f05bef.js" async=""></script></body></html>
